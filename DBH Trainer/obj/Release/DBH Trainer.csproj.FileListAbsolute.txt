@@ -1,0 +1,10 @@
+C:\Users\bebra\source\repos\DBH Trainer\DBH Trainer\bin\Release\DBH Trainer.exe.config
+C:\Users\bebra\source\repos\DBH Trainer\DBH Trainer\bin\Release\DBH Trainer.exe
+C:\Users\bebra\source\repos\DBH Trainer\DBH Trainer\bin\Release\DBH Trainer.pdb
+C:\Users\bebra\source\repos\DBH Trainer\DBH Trainer\obj\Release\DBH Trainer.csproj.AssemblyReference.cache
+C:\Users\bebra\source\repos\DBH Trainer\DBH Trainer\obj\Release\DBH_Trainer.Form1.resources
+C:\Users\bebra\source\repos\DBH Trainer\DBH Trainer\obj\Release\DBH_Trainer.Properties.Resources.resources
+C:\Users\bebra\source\repos\DBH Trainer\DBH Trainer\obj\Release\DBH Trainer.csproj.GenerateResource.cache
+C:\Users\bebra\source\repos\DBH Trainer\DBH Trainer\obj\Release\DBH Trainer.csproj.CoreCompileInputs.cache
+C:\Users\bebra\source\repos\DBH Trainer\DBH Trainer\obj\Release\DBH Trainer.exe
+C:\Users\bebra\source\repos\DBH Trainer\DBH Trainer\obj\Release\DBH Trainer.pdb
